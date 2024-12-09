@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Yura👋
 
-<!--
-**yurakozyrenko/yurakozyrenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
 
-Here are some ideas to get you started:
+Hi there! I'm a developer with expertise in building web applications, backend systems, and process automation. I focus on delivering efficient solutions, paying attention to details, and continually improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Technologies
+
+Frontend: HTML, CSS, JavaScript.
+Backend: Node.js, NestJS, MongoDB, Postgress, WebSocket, GraphQL.
+
+## 📈 My Goals
+
+Deepen my knowledge of complex system architecture.
+Learn new technologies to optimize project workflows.
+Contribute to open-source projects and share my expertise.
+
+## 🌐 Get in Touch
+https://t.me/YuraKazyrenka
